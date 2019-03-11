@@ -29,7 +29,7 @@ function currentLine(line) {
     return result.toString();
 }
 
-takeANumber(katzDeli, otherDeli);
+takeANumber(Matt, otherDeli);
 
 
 
