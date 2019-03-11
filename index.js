@@ -29,6 +29,8 @@ function currentLine(line) {
     return result.toString();
 }
 
+otherDeli = ["Steven", "Blake", "Avi"];
+
 takeANumber(Matt, otherDeli);
 
 
