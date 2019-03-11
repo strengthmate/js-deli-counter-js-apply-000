@@ -1,4 +1,7 @@
+//var dailyTotal = 0;
+
 function takeANumber(katzDeli, otherDeli) {
+  //dailyTotal++;
   katzDeli.push(otherDeli);
   return `Welcome, ${otherDeli}. You are number ${katzDeli.length} in line.`;
 }
