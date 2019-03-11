@@ -1,7 +1,6 @@
-
+  var dailyTotal = 0;
 
 function takeANumber(katzDeli, otherDeli) {
-  var dailyTotal = 0;
   dailyTotal++;
   katzDeli.push(otherDeli);
   return `Welcome, ${otherDeli}. You are number ${katzDeli.length} in line.`;
@@ -34,7 +33,9 @@ otherDeli = ["Steven", "Blake", "Avi"];
 katzDeli = [];
 
 takeANumber(katzDeli, otherDeli);
-
+takeANumber(katzDeli, otherDeli);
+takeANumber(katzDeli, otherDeli);
+takeANumber(katzDeli, otherDeli);
 console.log(dailyTotal);
 
 
