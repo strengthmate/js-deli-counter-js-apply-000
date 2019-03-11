@@ -30,6 +30,7 @@ function currentLine(line) {
 }
 
 otherDeli = ["Steven", "Blake", "Avi"];
+katzDeli = [];
 
 takeANumber(katzDeli, otherDeli);
 
