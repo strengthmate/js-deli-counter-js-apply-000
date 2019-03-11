@@ -35,7 +35,7 @@ function currentLine(line) {
 
 
 
-Solution from test in first techincal interview
+
 otherDeli = ["Steven", "Blake", "Avi"];
 katzDeli = [];
 takeANumber(katzDeli, otherDeli);
@@ -46,8 +46,8 @@ takeANumber(katzDeli, otherDeli);
 takeANumber(katzDeli, otherDeli);
 takeANumber(katzDeli, otherDeli);
 takeANumber(katzDeli, otherDeli);
-console.log(dailyTotal);
-console.log(dailyTotal.length);
+// console.log(dailyTotal);
+// console.log(dailyTotal.length);
 
 
 
