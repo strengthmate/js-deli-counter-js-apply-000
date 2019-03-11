@@ -1,9 +1,9 @@
 //var dailyTotal = 0;
-var dailyTotal = [];
+//var dailyTotal = [];
 
 function takeANumber(katzDeli, otherDeli) {
   //dailyTotal++;
-  dailyTotal.push(otherDeli);
+  //dailyTotal.push(otherDeli);
   katzDeli.push(otherDeli);
   return `Welcome, ${otherDeli}. You are number ${katzDeli.length} in line.`;
 }
@@ -44,8 +44,8 @@ takeANumber(katzDeli, otherDeli);
 takeANumber(katzDeli, otherDeli);
 takeANumber(katzDeli, otherDeli);
 takeANumber(katzDeli, otherDeli);
+console.log(dailyTotal);
 console.log(dailyTotal.length);
-
 
 
 
