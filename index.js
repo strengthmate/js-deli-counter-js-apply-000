@@ -31,7 +31,7 @@ function currentLine(line) {
 
 otherDeli = ["Steven", "Blake", "Avi"];
 
-takeANumber('Matt', otherDeli);
+takeANumber(katzDeli, otherDeli);
 
 
 
