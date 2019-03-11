@@ -1,9 +1,11 @@
-//var dailyTotal = 0;
+var dailyTotal = 0;
 //var dailyTotal = [];
 
 function takeANumber(katzDeli, otherDeli) {
-  //dailyTotal++;
+  dailyTotal++;
+  console.log(dailyTotal);
   //dailyTotal.push(otherDeli);
+  // console.log(dailyTotal.length);
   katzDeli.push(otherDeli);
   return `Welcome, ${otherDeli}. You are number ${katzDeli.length} in line.`;
 }
@@ -33,19 +35,19 @@ function currentLine(line) {
 
 
 
-
-// otherDeli = ["Steven", "Blake", "Avi"];
-// katzDeli = [];
-// takeANumber(katzDeli, otherDeli);
-// takeANumber(katzDeli, otherDeli);
-// takeANumber(katzDeli, otherDeli);
-// takeANumber(katzDeli, otherDeli);
-// takeANumber(katzDeli, otherDeli);
-// takeANumber(katzDeli, otherDeli);
-// takeANumber(katzDeli, otherDeli);
-// takeANumber(katzDeli, otherDeli);
-// console.log(dailyTotal);
-// console.log(dailyTotal.length);
+Solution from test in first techincal interview
+otherDeli = ["Steven", "Blake", "Avi"];
+katzDeli = [];
+takeANumber(katzDeli, otherDeli);
+takeANumber(katzDeli, otherDeli);
+takeANumber(katzDeli, otherDeli);
+takeANumber(katzDeli, otherDeli);
+takeANumber(katzDeli, otherDeli);
+takeANumber(katzDeli, otherDeli);
+takeANumber(katzDeli, otherDeli);
+takeANumber(katzDeli, otherDeli);
+console.log(dailyTotal);
+console.log(dailyTotal.length);
 
 
 
