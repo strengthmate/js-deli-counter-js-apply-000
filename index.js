@@ -36,16 +36,16 @@ function currentLine(line) {
 
 
 
-otherDeli = ["Steven", "Blake", "Avi"];
-katzDeli = [];
-takeANumber(katzDeli, otherDeli);
-takeANumber(katzDeli, otherDeli);
-takeANumber(katzDeli, otherDeli);
-takeANumber(katzDeli, otherDeli);
-takeANumber(katzDeli, otherDeli);
-takeANumber(katzDeli, otherDeli);
-takeANumber(katzDeli, otherDeli);
-takeANumber(katzDeli, otherDeli);
+// otherDeli = ["Steven", "Blake", "Avi"];
+// katzDeli = [];
+// takeANumber(katzDeli, otherDeli);
+// takeANumber(katzDeli, otherDeli);
+// takeANumber(katzDeli, otherDeli);
+// takeANumber(katzDeli, otherDeli);
+// takeANumber(katzDeli, otherDeli);
+// takeANumber(katzDeli, otherDeli);
+// takeANumber(katzDeli, otherDeli);
+// takeANumber(katzDeli, otherDeli);
 // console.log(dailyTotal);
 // console.log(dailyTotal.length);
 
