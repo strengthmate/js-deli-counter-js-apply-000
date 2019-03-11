@@ -1,9 +1,9 @@
 // var dailyTotal = 0;
-var dailyTotal = [];
+// var dailyTotal = [];
 
 function takeANumber(katzDeli, otherDeli) {
-  // // dailyTotal++;
-  // // console.log(dailyTotal);
+  // ailyTotal++;
+  // console.log(dailyTotal);
   // dailyTotal.push(otherDeli);
   // console.log(dailyTotal.length);
   katzDeli.push(otherDeli);
