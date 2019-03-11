@@ -2,10 +2,10 @@
 var dailyTotal = [];
 
 function takeANumber(katzDeli, otherDeli) {
-  // dailyTotal++;
-  // console.log(dailyTotal);
-  dailyTotal.push(otherDeli);
-  console.log(dailyTotal.length);
+  // // dailyTotal++;
+  // // console.log(dailyTotal);
+  // dailyTotal.push(otherDeli);
+  // console.log(dailyTotal.length);
   katzDeli.push(otherDeli);
   return `Welcome, ${otherDeli}. You are number ${katzDeli.length} in line.`;
 }
