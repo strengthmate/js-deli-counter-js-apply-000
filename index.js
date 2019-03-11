@@ -3,6 +3,7 @@ var dailyTotal = [];
 
 function takeANumber(katzDeli, otherDeli) {
   //dailyTotal++;
+  dailyTotal.push(otherDeli);
   katzDeli.push(otherDeli);
   return `Welcome, ${otherDeli}. You are number ${katzDeli.length} in line.`;
 }
@@ -33,17 +34,17 @@ function currentLine(line) {
 
 
 
-// otherDeli = ["Steven", "Blake", "Avi"];
-// katzDeli = [];
-// takeANumber(katzDeli, otherDeli);
-// takeANumber(katzDeli, otherDeli);
-// takeANumber(katzDeli, otherDeli);
-// takeANumber(katzDeli, otherDeli);
-// takeANumber(katzDeli, otherDeli);
-// takeANumber(katzDeli, otherDeli);
-// takeANumber(katzDeli, otherDeli);
-// takeANumber(katzDeli, otherDeli);
-// console.log(dailyTotal);
+otherDeli = ["Steven", "Blake", "Avi"];
+katzDeli = [];
+takeANumber(katzDeli, otherDeli);
+takeANumber(katzDeli, otherDeli);
+takeANumber(katzDeli, otherDeli);
+takeANumber(katzDeli, otherDeli);
+takeANumber(katzDeli, otherDeli);
+takeANumber(katzDeli, otherDeli);
+takeANumber(katzDeli, otherDeli);
+takeANumber(katzDeli, otherDeli);
+console.log(dailyTotal);
 
 
 
