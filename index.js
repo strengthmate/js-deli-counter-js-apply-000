@@ -36,6 +36,10 @@ takeANumber(katzDeli, otherDeli);
 takeANumber(katzDeli, otherDeli);
 takeANumber(katzDeli, otherDeli);
 takeANumber(katzDeli, otherDeli);
+takeANumber(katzDeli, otherDeli);
+takeANumber(katzDeli, otherDeli);
+takeANumber(katzDeli, otherDeli);
+takeANumber(katzDeli, otherDeli);
 console.log(dailyTotal);
 
 
