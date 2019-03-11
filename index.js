@@ -34,6 +34,8 @@ katzDeli = [];
 
 takeANumber(katzDeli, otherDeli);
 
+console.log(dailyTotal);
+
 
 
 
